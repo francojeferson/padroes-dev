@@ -1,73 +1,81 @@
 # padroes-dev
 
-vanilla
+## vanilla
 
-padroes de desenho
-command
-factory
-flyweight
-mediator/middleware
-mixin
-module
-observer
-prototype
-provider
-proxy
-[singleton](vanilla/design/singleton/README.md)
-static-import
+### padroes de desenho
 
-padroes de renderizacao
-islands arch
-animating view transitions
+- command
+- factory
+- flyweight
+- mediator/middleware
+- mixin
+- module
+- observer
+- prototype
+- provider
+- proxy
+- [singleton](vanilla/design/singleton/README.md)
+- static-import
 
-padroes de performance
-bundle splitting
-compressing js
-dynamic import
-import on interaction
-import on visibility
-optimize loading sequence
-prefetch
-preload
-prpl pattern
-optimize loading third-parties
-tree shaking
-list virtualization
+### padroes de renderizacao
 
-react
+- islands arch
+- animating view transitions
 
-padroes de desenho
-compound
-hoc
-hooks
-container/presentational
-render props
+### padroes de performance
 
-padroes de renderizacao
-client-side rendering
-incremental static generation
-progressive hydration
-selective hydration
-react server components
-server-side rendering
-static rendering
-streaming server-side rendering
+- bundle splitting
+- compressing js
+- dynamic import
+- import on interaction
+- import on visibility
+- optimize loading sequence
+- prefetch
+- preload
+- prpl pattern
+- optimize loading third-parties
+- tree shaking
+- list virtualization
 
-vue
+## react
 
-padroes de desenho
-components
-composables
-container/presentational
-data provider
-dynamic-components
-provide/inject
-script-setup
-state management
+### padroes de desenho
 
-padroes de renderizacao
-render functions
-renderless components
+- compound
+- hoc
+- hooks
+- container/presentational
+- render props
 
-padroes de performance
-async components
+### padroes de renderizacao
+
+- client-side rendering
+- incremental static generation
+- progressive hydration
+- selective hydration
+- react server components
+- server-side rendering
+- static rendering
+- streaming server-side rendering
+
+## vue
+
+### padroes de desenho
+
+- components
+- composables
+- container/presentational
+- data provider
+- dynamic-components
+- provide/inject
+- script-setup
+- state management
+
+### padroes de renderizacao
+
+- render functions
+- renderless components
+
+### padroes de performance
+
+- async components
